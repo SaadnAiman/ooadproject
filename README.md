@@ -1,0 +1,2 @@
+# ooadproject
+store management system
